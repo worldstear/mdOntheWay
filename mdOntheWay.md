@@ -38,7 +38,7 @@ ___
 ![图片alt](图片地址 ''图片title'')<br>
 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。<br>
 图片title就是图片的标题，当鼠标移动到图片上时显示的内容。title可加可不加<br>
-![](https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/super/crop=61,19,1358,849/sign=7ccd77d99f8fa0ec6b883e4d1ba168c2/cdbf6c81800a19d8a22331ef3dfa828ba61e4633.jpg)
+![](https://avatars1.githubusercontent.com/u/20022161?v=4)
 ## 六、超链接
 [超链接名](超链接地址 "超链接title")<br>
 title可加可不加<br>
