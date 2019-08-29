@@ -32,7 +32,7 @@
    - Enter passphrase 可填可不填，默认enter
    - Enter same passphrase again： 默认enter<br>提示验证信息已经保存在C:/Users/用户/.ssh/id_rsa.pub中<br>
 ![](img/id_rsa.jpg)<br>
-   -登录github账号，在个人菜单中的【settings】->Personal settings中的【SSH and GPG keys】->【New SSH key】->填入title和key，其中key为在本地通过`ssh-keygen`命令生成的id_rsa.pub中的内容
+   - 登录github账号，在个人菜单中的【settings】->Personal settings中的【SSH and GPG keys】->【New SSH key】->填入title和key，其中key为在本地通过`ssh-keygen`命令生成的id_rsa.pub中的内容
 - Linux版步骤与Windows版大致相同
 
 3. 在github中新建一个repository(仓库)，具体通过右上角选中【New Repository】->输入必填的【Repository name】->【Create repository】
