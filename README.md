@@ -6,8 +6,8 @@
 
 ## 二、md编辑工具的选择
 - 通过在线的markdown编辑器在线编辑，比如在Repository上新建一个*.md文件，可以在线编写md文件。
-- 使用Atom编辑器编写<br>
-官网地址：https://atom.io
+- 使用Atom、Hbuilder等编辑器编写<br>
+Atom官网地址：https://atom.io
 ![](img/atom.jpg)
 
 ## 三、Git的使用
